@@ -1,7 +1,4 @@
----
-- name: Yo World!
- 
+- name: Yo World! 
   tasks:
- 
   - name: Yo World!
     shell: echo "Hi! AWX is working."
